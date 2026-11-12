@@ -4,11 +4,11 @@ type: agent
 
 metadata:
   name: morning-greeting-agent
-  version: 1.0.0
+  version: 1.1.0
 
 agentCard:
   name: Morning Greeting Agent
-  version: 1.0.0
+  version: 1.1.0
   description: An AI agent that sends a warm, personalized hello greeting to users every morning at 8:00 AM to boost morale and encourage an on-time productive start to the day.
 
 provides:
